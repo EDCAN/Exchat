@@ -16,6 +16,11 @@ A simple and fast exchange information application "Exchat"
 * `title_fastsearch.png` - 빠른검색(Fastsearch) 위젯 타이틀.
 * `title_about_app.png` - About창 타이틀부분 앱 로고.
 * `title_about_team.png` - About창 타이틀부분 앱 로고 아래의 팀 로고.
+* `btn_tutorial_back.png` - 튜토리얼부분 뒤로가기 버튼.
+* `title_tutorial_slide1.png` - 튜토리얼 슬라이드 1부분 로고.
+* `title_tutorial_slide2_frame.png` - 튜토리얼 슬라이드 2 스크린샷과 기기 프레임.
+* `title_tutorial_slide3_frame.png` - 튜토리얼 슬라이드 3 스크린샷과 기기 프레임.
+* `ic_tutorial_slide4_spinner.png` - 튜토리얼 슬라이드 4 주요 환율 부분 스피너 아이콘.
 
 # Color information
 
@@ -36,3 +41,4 @@ A simple and fast exchange information application "Exchat"
 ~~~
 오늘 일본환율은 100 JPY = 1,020.58 KRW 입니다. #Exchat.
 ~~~
+* 튜토리얼은 간단한 소개와 주요 환율 설정만 합니다.
